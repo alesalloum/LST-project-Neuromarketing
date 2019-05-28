@@ -1,0 +1,61 @@
+BRAND: ,Matching,Conflicting,Pos. first,Conf. first,Number match,Number conf
+Abloy,safe,risky,0,0,1,61
+Arabia,timeless ,cheap,0,0,2,62
+Billebeino,trendy,old,1,1,3,63
+DNA,Cheap,Expensive,0,0,4,64
+Elisa,Fast,Slow,0,0,5,65
+Elovena,healthy,sour,1,1,6,66
+Fazer,Delicious,tasteless,0,1,7,67
+Finlayson,Stylish ,rough,0,0,8,68
+Finnair,safe,unfriendly,1,1,9,69
+Finnkino,Entertaining,Boring,1,1,10,70
+Fiskars,Sharp,Fragile,1,0,11,71
+Fortum,Sustainable,undeveloped,0,0,12,72
+Futurice,modern,dull,1,1,13,73
+Genelec,Awesome,unimpressive,1,1,14,74
+Hackman,Durable,Brittle,0,0,15,75
+Hartwall,Sparkly,warm,0,1,16,76
+Hesburger,Tasty,Disgusting,1,1,17,77
+HSL,dynamic,broken,1,0,18,78
+Iittala,classy,lame,1,1,19,79
+Kalevala,traditional,ugly,0,1,20,80
+Karhu,alcoholic,dry,1,0,21,81
+Kesko,massive,flexible,1,1,22,82
+KONE,Urban,rural,1,1,23,83
+Leijonat,winners,loosers,1,0,24,84
+Lumene,natural,toxic,1,0,25,85
+Makia,young,absurd,1,0,26,86
+Marimekko,Pretty,dull,0,1,27,87
+Moomin,Lovely,Sad ,1,1,28,88
+MTV,pleasant ,repulsive,0,1,29,89
+Neste,Sustainable,unknown,1,1,30,90
+Nokia,successful,complex,0,1,31,91
+Nordea,Professional,Amateur,1,1,32,92
+Onnibus,Cheap,Expensive,0,0,33,93
+Orion,scientific,pointless,1,0,34,94
+Outotec,advanced,tiny,1,1,35,95
+Patria,mysterious,open,1,0,36,96
+Paulig,tasty,irresponsible,1,1,37,97
+Pirkka,cheap,unaffordable,1,1,38,98
+Planmeca,technical,simple,1,1,39,99
+Polar,sporty,simple,1,1,40,100
+Rapala,Gorgeous,ugly,0,0,41,101
+Ratia,Stylish ,hideous,1,0,42,102
+Rovio,exciting,boring,1,1,43,103
+Saarioinen,delicious,timeless,0,0,44,104
+Sanoma,informative,outdated,0,0,45,105
+Sasta,Normal,awful,0,1,46,106
+Savotta,Safe,dangerous,1,1,47,107
+Sisu,fresh,tasteless,1,1,48,108
+Slush,innovative,trivial,1,1,49,109
+Stockmann,classy,mainstream,0,1,50,110
+Supercell,unicorn,failing,0,1,51,111
+Suunto,Luxurious,poor,0,0,52,112
+Teboil,powerful,traditional,0,1,53,113
+Tunturi,solid,fake,0,0,54,114
+TVO,slow,quick,1,0,55,115
+Uponor,clean,dirty,0,0,56,116
+Valio,empowering,tasteless,0,1,57,117
+Valmet,advanced,backward,1,1,58,118
+Wolt,Fast,Slow,1,1,59,119
+Yle,improved,unreliable,0,0,60,120
