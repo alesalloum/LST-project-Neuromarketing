@@ -3,6 +3,7 @@
 
 """
 Neuromarketing - keyboard record
+Leifu Chen
 """
 
 from __future__ import absolute_import, division, print_function
