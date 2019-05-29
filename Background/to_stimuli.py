@@ -1,3 +1,9 @@
+''''
+Brand list to stimuli list
+Juho Aaltonen
+''''
+
+
 import pandas as pd
 import  csv
 import numpy as np
@@ -8,11 +14,11 @@ from sklearn.utils import shuffle
 files = ['eng_fin.csv', 'eng_non.csv']
 files_fin = ['fin_fin.csv', 'fin_non.csv']
 
-# Generate vector to match numbers of matching word pairs
+# Generate vector to match numbers of matching word pairs. (60 Finnish brands and 60 non-Finnish)
 fin_brands = np.arange(60)
 non_brands = np.arange(60) + 120
 
-# Shuffle order
+# Shuffle order 
 np.random.shuffle(fin_brands)
 np.random.shuffle(non_brands)
 
