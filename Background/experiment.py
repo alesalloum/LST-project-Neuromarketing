@@ -3,6 +3,7 @@
 
 """
 Neuromarketing experiment code
+Juho Aaltonen & Leifu Chen
 """
 
 from __future__ import absolute_import, division, print_function
@@ -31,7 +32,7 @@ english = True # Change to False in Finnish part
 
 stim = 1.5            # length of one stimulus in seconds
 pause = 2             # length of the pause between stimuli
-long_pause = 5
+long_pause = 60
 
 
 # ACTUAL CODE BEGINS
